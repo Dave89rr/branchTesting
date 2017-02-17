@@ -2,4 +2,5 @@ she made a Files and
 some changes were made
 
 ADDING EXPERIMENTAL CODE
-Experimental code seems ot be taking off
+Experimental code seems to be taking off
+changes are made, bits are fixed
