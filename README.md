@@ -9,7 +9,7 @@
 
 # Description
 An app for maps
-to be used by ggc.edu
+to be used by Goergia Gwinnett College
 
 
 Extra stuff
