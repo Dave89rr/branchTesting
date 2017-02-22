@@ -1,6 +1,6 @@
 # Readme
 ## Team
-* Pacheco Adds name last
+* Pacheco
 * Josh
 * Maggie's Commits name
 * David
