@@ -14,7 +14,7 @@ An app for maps
 
 Extra stuff
 
-One more line
+### Credits
 
 
 <!-- End of File -->
