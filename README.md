@@ -9,7 +9,7 @@
 
 # Description
 An app for maps
-
+to be used by ggc.edu
 
 
 Extra stuff
