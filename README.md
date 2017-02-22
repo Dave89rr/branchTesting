@@ -2,7 +2,7 @@
 ## Team
 * Pacheco
 * Josh
-* Maggie's Commits name
+* Maggie
 * David
 
 
