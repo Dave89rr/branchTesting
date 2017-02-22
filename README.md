@@ -2,7 +2,7 @@
 ## Team
 * Pacheco Adds name last
 * Josh
-* Maggie's Commits name
+* Maggie
 * David
 
 
