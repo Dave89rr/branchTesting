@@ -1,13 +1,5 @@
 # Title
-
-Pacheco Adds name last
-
-
-
-Maggie's Commits name
-
-
-
-David
-
-Josh
+* Pacheco Adds name last
+* Maggie's Commits name
+* David
+* Josh
