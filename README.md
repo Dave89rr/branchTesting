@@ -1,7 +1,7 @@
 # Readme
 ## Team
 * Pacheco
-* Josh
+* Josh Gerth
 * Maggie
 * David
 
