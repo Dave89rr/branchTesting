@@ -5,7 +5,7 @@
 * Maggie
 * David
 
-New LIne
+
 
 # Description
 An app for maps
