@@ -5,14 +5,14 @@
 * Maggie
 * David
 
-New LIne
 
-# Description
+
+# Descriptions
 An app for maps
 to be used by Goergia Gwinnett College
 
 
-Extra stuff
+Extra stuffs
 
 ### Credits
 * Music
