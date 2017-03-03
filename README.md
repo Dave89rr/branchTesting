@@ -7,7 +7,7 @@
 
 
 
-# Description
+# Descriptions
 An app for maps
 to be used by Goergia Gwinnett College
 
