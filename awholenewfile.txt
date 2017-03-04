@@ -1,1 +1,2 @@
 This is simpler to write
+And a new file is written!
