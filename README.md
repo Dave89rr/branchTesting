@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <td>
-[BrowserStack](http://www.BrowserStack.com/)
+<a href="http://www.BrowserStack.com/"> BrowserStack</a>
 </td>
 </tr>
 </table>
