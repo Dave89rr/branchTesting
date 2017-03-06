@@ -1,11 +1,11 @@
 # Gwinnett Grizzlies Map
 #### Our Sponsors
-![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/Logo-01.svg "BrowserStack")
+![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/Logo-01.png "BrowserStack")
 
 <table border="0">
 <tr>
 <td>
-![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/Logo-01.svg "BrowserStack")
+![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/Logo-01.png "BrowserStack")
 </td>
 </tr>
 <tr>
