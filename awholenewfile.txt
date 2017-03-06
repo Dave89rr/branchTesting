@@ -1,2 +1,6 @@
 This is simpler to write
+<<<<<<< Updated upstream
 And a new file is written!
+=======
+New file thingy
+>>>>>>> Stashed changes
