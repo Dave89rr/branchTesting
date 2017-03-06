@@ -15,6 +15,9 @@
 </tr>
 </table>
 
+
+<a href="http://www.BrowserStack.com/"><img src="https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png" atl="BrowserStack"></a>
+
 ##### [Read More](https://github.com/soft-eng-practicum/ggcmaps#about-our-sponsors)
 
 ## Table of Contents
