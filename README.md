@@ -1,4 +1,5 @@
-# Gwinnett Grizzlies Map
+# Experimental Repository
+All content is just random nonsense to learn more about using `Git`
 #### Our Sponsors
 ![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png "BrowserStack")
 
