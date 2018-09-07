@@ -41,3 +41,6 @@ This project was started by [Mike Deiters et al](https://github.com/soft-eng-pra
 
 ### About our Sponsors
 * [BrowserStack](http://browserstack.com/)
+
+stupid commit
+accept me
