@@ -1,26 +1,3 @@
-# Experimental Repository
-All content is just random nonsense to learn more about using `Git`
-#### Our Sponsors
-![BrowserStack] (https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png "BrowserStack")
-
-<table border="0">
-<tr>
-<td>
-<img src="https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png" atl="BrowserStack">
-</td>
-</tr>
-<tr>
-<td>
-<a href="http://www.BrowserStack.com/"> BrowserStack</a>
-</td>
-</tr>
-</table>
-
-
-<a href="http://www.BrowserStack.com/"><img src="https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png" atl="BrowserStack"></a>    <a href="http://www.BrowserStack.com/"><img src="https://github.com/Dave89rr/branchTesting/blob/master/tinylogo.png" atl="BrowserStack"></a>
-
-#### [Read More](https://github.com/soft-eng-practicum/ggcmaps#about-our-sponsors)
-
 ## Table of Contents
 * [News](https://github.com/soft-eng-practicum/ggcmaps#news)
 * [Description](https://github.com/soft-eng-practicum/ggcmaps#description)
